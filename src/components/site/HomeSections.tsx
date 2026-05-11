@@ -1,5 +1,5 @@
 import { Link } from "@tanstack/react-router";
-import { ArrowRight, ArrowUpRight, CheckCircle2, Sparkles, Target, Workflow, LineChart, Users2, Quote, MessagesSquare, Building2, Briefcase, GitBranch, ShieldCheck, TrendingUp } from "lucide-react";
+import { ArrowRight, ArrowUpRight, CheckCircle2, Sparkles, Target, Workflow, LineChart, Users2, Quote, MessagesSquare, Briefcase, GitBranch } from "lucide-react";
 import { Reveal } from "@/components/Reveal";
 import heroBoardroom from "@/assets/hero-boardroom.jpg";
 import founderPortrait from "@/assets/founder-portrait.jpg";
